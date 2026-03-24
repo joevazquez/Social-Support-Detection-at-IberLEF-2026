@@ -1,0 +1,1 @@
+# Código del paper para Social Support Detection at IberLEF 2026
